@@ -7,7 +7,7 @@ The Movie Database (TMDb) is a community built movie and TV database dating back
 ## Project files
 
 - `tmdb_wrangle.ipynb` the main code and report for the data wrangling and analysis process.
-- `tmdb-wrangle.html` an exported HTML of the jupyter notebook.
+- `tmdb_wrangle.html` an exported HTML of the jupyter notebook.
 - `tmdb-movies.csv` the original data from TMDB.
 - `title.ratings.tsv` IMDB ratings downloaded from https://datasets.imdbws.com/
 - `tmdb-clean.csv.` the cleaned data from the TMDB and the IMDB datasets.
